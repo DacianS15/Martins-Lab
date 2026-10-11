@@ -5,9 +5,9 @@ title                    : "Andrew Martin's Research Lab"
 title_separator          : "-"
 name                     : &name "Martin Research Lab"
 description              : &description "Psychosis, social cognition, ageing, and mental health research at the University of Kent"
-url                      : https://dacians15.github.io
-baseurl                  : "/martins-lab.github.io"
-repository               : "DacianS15/martins-lab.github.io"
+url                      : "https://dacians15.github.io"
+baseurl                  : "/MartinsLab"
+repository               : "DacianS15/MartinsLab"
 
 author:
   avatar           : "profile_pic_400x400_inline.webp"
